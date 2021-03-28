@@ -9,5 +9,5 @@ It ensures:
 6) The whole system is also zero-knowledge proof, so nobody can know who a particular voter voted for.
 
 
-To better understand the code, read through the comments in the **app.py** file and run the code to see how it works
-Feel free to download to the project and play around with app.py file. You can add new voters and vote, add new candidates e.t.c!
+##To better understand the code, read through the comments in the **app.py** file and run the code to see how it works
+##Feel free to download to the project and play around with app.py file. You can add new voters and vote, add new candidates e.t.c!

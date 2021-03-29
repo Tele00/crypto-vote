@@ -1,5 +1,5 @@
-# crypto-vote
-**Crypto Vote** is a voting system that ensures the integrity of elections through blockchain and cryptographic methods.
+# Vote-Chain
+**Vote Chain** is a voting system that ensures the integrity of elections through blockchain and cryptographic methods.
 It ensures:
 1) Every voter is valid and eligible
 2) Every voter can only vote once

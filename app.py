@@ -1,5 +1,5 @@
 import votechain
-#In this file I am simulating an election using the blockchain based voting i wrote in the cryptovote.py file
+#In this file I am simulating an election using the blockchain based voting i wrote in the votechain.py file
 #Lets simulate a Nigerian Presidential election using the blockchain voting system
 
 #Lets first create a blockchain to represent the election
